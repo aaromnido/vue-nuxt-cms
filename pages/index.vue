@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        MY vue-nuxt-cms
+        vue-nuxt-cms
       </h1>
       <h2 class="subtitle">
-        MY Simple CMS tests
+        Simple CMS tests
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentación</a>
